@@ -8,6 +8,6 @@ public class Hello_World2 {
 		System.out.println("Hallo Welt2");
 	}
 	public static void hallo2(){
-		System.out.println("Hallo Weltssss");
+		System.out.println("Hallo Weltssss"); //wergwegwe
 	}
 }
